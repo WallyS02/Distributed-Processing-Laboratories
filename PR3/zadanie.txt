@@ -1,0 +1,3 @@
+Zadanie:
+
+Proces bierze tekst od człowieka i wrzuca go do pliku. Odpala proces 2, który pobierze ten sam i plik i zamieni duże litery na małe i odwrotnie. Odpala proces 3, który wyświetli plik.

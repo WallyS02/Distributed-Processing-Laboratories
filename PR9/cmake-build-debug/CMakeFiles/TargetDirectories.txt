@@ -1,0 +1,3 @@
+/mnt/c/Users/Ja/Downloads/PR/Lab/PR9/cmake-build-debug/CMakeFiles/PR9.dir
+/mnt/c/Users/Ja/Downloads/PR/Lab/PR9/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Ja/Downloads/PR/Lab/PR9/cmake-build-debug/CMakeFiles/rebuild_cache.dir

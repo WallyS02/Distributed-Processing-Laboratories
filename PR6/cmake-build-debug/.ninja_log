@@ -1,0 +1,5 @@
+# ninja log v5
+1115	1413	7052700153162851	PR6.exe	bcc6d908a878c881
+1	1112	7052700150220183	CMakeFiles/PR6.dir/Client.c.obj	5bcc90f67af7d1d
+1	323	7052700437082898	build.ninja	ab7cbae3219a54
+1	959	7052699834546248	CMakeFiles/PR6.dir/Server.c.obj	c1cb014c8dfa7029
